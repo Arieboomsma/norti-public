@@ -1,8 +1,9 @@
 brand guidelines norti.se
 
 Direct download logo URL JPG: curl -O https://raw.githubusercontent.com/Arieboomsma/norti-public/fbd7e4adc98ee4c99f0473814303135b3e260410/norti%20se%20logo.jpeg
+
 Direct download logo URL PNG: 
-Direct download logo URL VMC: 
+Direct download logo URL SVG: https://raw.githubusercontent.com/Arieboomsma/norti-public/refs/heads/main/norti%20logo.svg
 
 
 
