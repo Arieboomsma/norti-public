@@ -6,7 +6,7 @@ Direct download logo URL PNG: https://raw.githubusercontent.com/Arieboomsma/nort
  
 Direct download logo URL SVG: https://raw.githubusercontent.com/Arieboomsma/norti-public/refs/heads/main/norti%20logo.svg
 
-DD Swish QR code Sofia 49 SEK: https://raw.githubusercontent.com/Arieboomsma/norti-public/main/swish%20qr%20code%20sofia%2049%20sek.png 
+DD Swish QR code Sofia 49 SEK: 
 
 
 
