@@ -9,6 +9,7 @@ Swish
 DD Swish QR code Sofia 49 SEK: https://raw.githubusercontent.com/Arieboomsma/norti-public/main/swish%20qr%20code%20sofia%2049%20sek%20(1).png 
 
 ID Kollen: 
+- https://raw.githubusercontent.com/Arieboomsma/norti-public/468738ce3cf66874cd63f642c19a229d453b4060/idkollen_icon.png
 - https://raw.githubusercontent.com/Arieboomsma/norti-public/96e1e9afd8a99cc809f7cf6f998cd4d409132117/idkollen_pos_vertical.png
 - https://raw.githubusercontent.com/Arieboomsma/norti-public/96e1e9afd8a99cc809f7cf6f998cd4d409132117/idkollen_pos_horizontal.png
 - https://raw.githubusercontent.com/Arieboomsma/norti-public/96e1e9afd8a99cc809f7cf6f998cd4d409132117/idkollen_neg_horizontal.png 
