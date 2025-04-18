@@ -7,6 +7,14 @@ Direct download logo URL SVG: https://raw.githubusercontent.com/Arieboomsma/nort
 
 Swish
 DD Swish QR code Sofia 49 SEK: https://raw.githubusercontent.com/Arieboomsma/norti-public/main/swish%20qr%20code%20sofia%2049%20sek%20(1).png 
+Swish icon: https://raw.githubusercontent.com/Arieboomsma/norti-public/main/swish%20qr%20code%20sofia%2049%20sek%20%281%29.png
+
+Other:
+- Agreement icon: https://raw.githubusercontent.com/Arieboomsma/norti-public/0f61c2f217d8133246f8163741dcdc05415b5817/agreement%20logo%20norti.png
+- tickets: https://raw.githubusercontent.com/Arieboomsma/norti-public/7db846e9f2778572d92e9f342dec5254fc37b54d/tickets.png
+- Fika for Fia: https://raw.githubusercontent.com/Arieboomsma/norti-public/c62f87e959526d0b3d7db635186536e935e7c168/Fika%20for%20Fia.png
+ 
+ 
 
 ID Kollen: 
 - https://raw.githubusercontent.com/Arieboomsma/norti-public/468738ce3cf66874cd63f642c19a229d453b4060/idkollen_icon.png
@@ -25,6 +33,9 @@ Mint Green Background (bottom): #D9F2E5
 
 Complementary UI Palette:
 These colors are designed to feel modern, soft, and Japandi-inspired.
+
+FONDS:
+- Logo fond: Avemir Nnext arabic
 
 Purpose	Color Name	Hex Code	Use Example
 Primary	Coral	#F37C6C	Buttons, accents, icons
