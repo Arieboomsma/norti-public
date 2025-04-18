@@ -7,7 +7,8 @@ Direct download logo URL SVG: https://raw.githubusercontent.com/Arieboomsma/nort
 
 Swish
 DD Swish QR code Sofia 49 SEK: https://raw.githubusercontent.com/Arieboomsma/norti-public/main/swish%20qr%20code%20sofia%2049%20sek%20(1).png 
-Swish icon: https://raw.githubusercontent.com/Arieboomsma/norti-public/main/swish%20qr%20code%20sofia%2049%20sek%20%281%29.png
+Swish icon: https://raw.githubusercontent.com/Arieboomsma/norti-public/e1fc184af1a622e5ae63267b077092a319f14839/png-clipart-swish-pizzeria-venedig-organization-logo-boiu-barnombudet-i-uppsala-lan-swish-swish-text-service.png
+
 
 Other:
 - Agreement icon: https://raw.githubusercontent.com/Arieboomsma/norti-public/0f61c2f217d8133246f8163741dcdc05415b5817/agreement%20logo%20norti.png
@@ -35,7 +36,7 @@ Complementary UI Palette:
 These colors are designed to feel modern, soft, and Japandi-inspired.
 
 FONDS:
-- Logo fond: Avemir Nnext arabic
+- Logo fond: Avemir Next arabic
 
 Purpose	Color Name	Hex Code	Use Example
 Primary	Coral	#F37C6C	Buttons, accents, icons
