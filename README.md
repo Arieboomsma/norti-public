@@ -24,6 +24,19 @@ ID Kollen:
 - https://raw.githubusercontent.com/Arieboomsma/norti-public/96e1e9afd8a99cc809f7cf6f998cd4d409132117/idkollen_neg_horizontal.png 
 - https://raw.githubusercontent.com/Arieboomsma/norti-public/96e1e9afd8a99cc809f7cf6f998cd4d409132117/idkollen_neg_vertical.png
 
+Website: Norti.se
+Listing, selling and buying of concert tickets in the swedish market.
+
+Frontend languages:
+- Javascript
+- css
+- Html
+- In static webapp
+
+Backend languages:
+- .net / Csharp
+- Azure function apps
+- API management from Azure
 
 Primary Brand Colors (from the logo):
 Coral (logo "N"): #F37C6C
