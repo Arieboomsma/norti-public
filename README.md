@@ -27,6 +27,8 @@ ID Kollen:
 Website: Norti.se
 Listing, selling and buying of concert tickets in the swedish market.
 
+Language: Swedish language is used on the whole website
+
 Frontend languages:
 - Javascript
 - css
