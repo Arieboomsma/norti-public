@@ -27,6 +27,14 @@ ID Kollen:
 Website: Norti.se
 Listing, selling and buying of concert tickets in the swedish market.
 
+USP's of Norti.se
+- Sellers are BankID verified
+- Free to buy and sell tickets
+- Easy way to find and sell tickets
+- Notifications when there are buyers and sellers
+- Sofia Björkholm is owner of E-biljetter - Köp & Sälj and it is her mission to make E-biljet sales safer and cheaper
+
+
 Language: Swedish language is used on the whole website
 
 Frontend languages:
