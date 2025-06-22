@@ -70,3 +70,9 @@ Text (dark)	Charcoal Gray	#3A3A3A	Primary text
 Text (light)	Stone Gray	#7B7B7B	Secondary text
 Highlight	Sage Green	#BCCDB3	Tags, subtle emphasis
 Accent	Muted Lavender	#D8C8E0	Optional soft detail or hover states
+
+Pages:
+- Website: https://norti.se
+- Facebook Group: https://www.facebook.com/groups/norti.se 
+- Facebook Page: https://www.facebook.com/profile.php?id=61577344851814
+- Instagram: https://www.instagram.com/norti_se/ 
