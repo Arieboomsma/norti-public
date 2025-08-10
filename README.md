@@ -1,4 +1,7 @@
 brand guidelines norti.se
+Bankid: https://www.bankid.com/assets/bankid/logo/BankID_logo.png 
+Trustap: https://docs.trustap.com/assets/trustap-logo-colour.6d1fe71469ee1c88ddba0c4cafe1fa5ac2c3bf18fd2da80963a8025cae53feb0.9c1bb791.png 
+Direct download logo URL PNG: https://raw.githubusercontent.com/Arieboomsma/norti-public/d8ff7881dc74592ff44baf5d3e426a11b0e61f13/norti%20logo.png
 
 Norti.se
 Direct download logo URL JPG: curl -O https://raw.githubusercontent.com/Arieboomsma/norti-public/fbd7e4adc98ee4c99f0473814303135b3e260410/norti%20se%20logo.jpeg
