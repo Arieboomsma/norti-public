@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snabb biljett">
+  <circle cx="8" cy="8" r="8" fill="#C8E6C9"/>
+  <path d="M8.4 2.8L5.2 8.8H7.4L6.2 12L10.8 6.8H8.6L9.8 2.8Z" fill="#2E7D32"/>
+</svg>
